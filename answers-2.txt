@@ -1,0 +1,15 @@
+1. What branches exist in this project?
+- master
+- landing
+- package
+- bower
+- index
+- answers
+2. What branch has been merged into master?
+- index
+3. How many commits (in total) does the repository have?
+- 16 commits, when also counting merges.
+4. What commits belong to branch package that don't belong to the branch master?
+- cab8d80 Removed lock
+- 8bfb714 Added locked package
+- daa9e63 Added package
